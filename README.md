@@ -5,5 +5,4 @@ Letterboxd Lifesaver is a Python-based application that helps users choose movie
 ## Features
 
 - Retrieves the user's Letterboxd watchlist.
-- Analyzes user preferences and recommends movies.
 - User-friendly command-line interface.
